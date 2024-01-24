@@ -1,26 +1,9 @@
 [
     {
-        "strand_1": [
-            {
-                "page_number": 1,
-                "number_of_columns": 2,
-                "table": [
-                    [
-                        "MINISTRY OF EDUCATION\nUPPER PRIMARY LEVEL DESIGNS\nL EARNING AR EA: MATHEMATICS\nGRADE 5\nNOVEMBER 2019\nKENYA INSTITUTE OF CURRICULUM DEVELOPEM",
-                        null
-                    ],
-                    [
-                        null,
-                        "KENYA INSTITUTE OF CURRICULUM DEVELOPEM"
-                    ]
-                ]
-            }
-        ]
-    },
-    {
         "strand_2": [
             {
                 "page_number": 3,
+                "subject": "math",
                 "number_of_columns": 5,
                 "table": [
                     [
@@ -36,13 +19,7 @@
                         "By the end of the sub strand, the\nlearner should be able to;\na) use place value and total value\nof digits up to hundreds of\nthousands in real life,\nb) use numbers up to hundreds\nof thousands in symbols in real\nlife,\nc) read, write and relate numbers\nup to tens of thousands in\nwords in real life,\nd) order numbers up to tens of\nthousands in real life,\ne) round off numbers up to tens\nof thousands to the nearest\nhundred and thousand in\ndifferent situations,\nf) apply divisibility tests of 2, 5\nand 10 in real life,\ng) apply highest Common Factor\n(HCF) and Greatest Common\nDivisor (GCD) in different\nsituations,\nh) use Least Common Multiple\n(LCM) in real life situations,",
                         " In pairs,groups or as individuals identify place\nvalue of digits up to hundreds of thousands using\nplace value apparatus.\n In pairs,groups or as individuals identify total\nvalue of digits up to hundreds of thousands using\nplace value apparatus.\n In pairs,groups or as individuals read numbers\nup to hundreds of thousands in symbols from\nnumber charts or cards.\n In pairs, groups or as individuals read and write\nnumbers up to tens of thousands in words from\nnumber charts or cards.\n In pairs, groups or as individuals arrange\nnumbers up to tens of thousands in increasing\nand decreasing order using number cards and\nshare with other groups.\n In pairs, groups or as individuals round off\nnumbers up to tens of thousands to the nearest\nhundred and thousand using number cards and\nshare with other groups.\n In pairs, groups or as individuals divide\ndifferent numbers by 2, 5 and 10 and come up\nwith divisibility rules.",
                         "1. Where is\nordering of\nnumbers\nused in real\nlife?\n2. How do you\nfind out\nwhether a\nnumber can\nbe divided\nby another?"
-                    ]
-                ]
-            },
-            {
-                "page_number": 4,
-                "number_of_columns": 6,
-                "table": [
+                    ],
                     [
                         "",
                         "",
@@ -50,7 +27,13 @@
                         " In pairs, groups or as individuals identify factors\nand divisors of given numbers.\n In pairs, groups or as individuals identify the\ncommon factors and divisors.\n In pairs, groups or as individuals determine the\nhighest or greatest common factor or divisor.\n In pairs, groups or as individuals identify\nmultiples of given numbers.\n In pairs, groups or as individuals identify the\ncommon multiples.\n In pairs, groups or as individuals determine the\nleast common multiple.\n In pairs or as individuals play digit games on\ninvolving numbers.",
                         null,
                         ""
-                    ],
+                    ]
+                ]
+            },
+            {
+                "page_number": 4,
+                "number_of_columns": 6,
+                "table": [
                     [
                         "Core Competences to be developed:\n Critical thinking and problem solving; as learners order and round off numbers.\n Learning to learn; as learners read, write numbers and compute HCF and GCD.\n Digital literacy; as learners use IT devices to learn and play games.\n Self- efficacy: as learners share or lead others in groups.",
                         null,
@@ -74,13 +57,7 @@
                         null,
                         "Suggested Community Services Learning Activities:\n Learners may assist in organizing or packing items in multiples\nin community functions.",
                         null
-                    ]
-                ]
-            },
-            {
-                "page_number": 5,
-                "number_of_columns": 2,
-                "table": [
+                    ],
                     [
                         " Agriculture; as learners interact with various agricultural produce\nin word questions..",
                         ""
@@ -133,25 +110,11 @@
                     ],
                     [
                         "5.",
-                        "Ro und off numbers\nup to tens of\nthousands to the",
+                        "Ro und off numbers\nup to tens of\nthousands to the nearest hundred and\nthousand",
                         "Rounds off numbers greater than\ntens of thousands to the nearest\nhundred and thousand correctly",
-                        "Rounds off numbers up\ntens of thousands to the",
-                        "Inconsistently\nrounds off numbers\nup to tens of",
-                        "Little evidence in\nrounding off numbers\nup to"
-                    ]
-                ]
-            },
-            {
-                "page_number": 6,
-                "number_of_columns": 6,
-                "table": [
-                    [
-                        "",
-                        "nearest hundred and\nthousand",
-                        "",
-                        "nearest hundred and\nthousand correctly",
-                        "thousands to the\nnearest hundred and\nthousand",
-                        "tens of thousands to\nthe nearest hundred\nand thousand"
+                        "Rounds off numbers up\ntens of thousands to the nearest hundred and\nthousand correctly",
+                        "Inconsistently\nrounds off numbers\nup to tens of thousands to the\nnearest hundred and\nthousand",
+                        "Little evidence in\nrounding off numbers\nup to tens of thousands to\nthe nearest hundred\nand thousand"
                     ],
                     [
                         "6.",
@@ -186,9 +149,7 @@
                         "Little evidence in\nusing IT devices for\nlearning more on\nwhole numbers"
                     ]
                 ]
-            }
-        ]
-    },
+            },
     {
         "strand_3": [
             {
@@ -263,13 +224,7 @@
                         "Adds up to two 6-\ndigit numbers with\ndouble regrouping\nup to a sum of\n1,000,000 correctly",
                         "Inconsistently adds\nup to two 6- digit\nnumbers with\ndouble regrouping\nup to a sum of\n1,000,000",
                         "Little evidence in\nadding up to two 6-\ndigit numbers with\ndouble regrouping\nup to a sum of\n1,000,000"
-                    ]
-                ]
-            },
-            {
-                "page_number": 9,
-                "number_of_columns": 6,
-                "table": [
+                    ],
                     [
                         "3.",
                         "Estimate sum by rounding\nthe addends to the nearest\nhundred and thousand",
@@ -294,10 +249,9 @@
                         "Inconsistently uses\nIT devices for\nlearning more on\naddition of numbers",
                         "Little evidence in\nusing IT devices for\nlearning more on\naddition of numbers"
                     ]
+
                 ]
-            }
-        ]
-    },
+            },
     {
         "strand_4": [
             {
@@ -314,7 +268,7 @@
                     [
                         "",
                         "1.3 Subtraction\n(6 Lessons)",
-                        "By the end of the sub strand, the\nlearner should be able to;\na) subtract up to 6-digit\nnumbers without regrouping\nin real life situations,\nb) subtract of up to 6-digit\nnumbers with regrouping in\ndifferent situations,\nc) estimate difference by\nrounding off the minuend\nand subtrahend to the nearest\nhundred and thousand in\ndifferent situations,\nd) perform combined\noperations involving\naddition and subtraction in\ndifferent situations,\ne) create patterns involving\nsubtraction from up to\n1,000,000 in different\nsituations,\nf) use IT devices for learning\nmore on subtraction of\nnumbers and for enjoyment,",
+                        "By the end of the sub strand, the\nlearner should be able to;\na) subtract up to 6-digit\nnumbers without regrouping\nin real life situations,\nb) subtract of up to 6-digit\nnumbers with regrouping in\ndifferent situations,\nc) estimate difference by\nrounding off the minuend\nand subtrahend to the nearest\nhundred and thousand in\ndifferent situations,\nd) perform combined\noperations involving\naddition and subtraction in\ndifferent situations,\ne) create patterns involving\nsubtraction from up to\n1,000,000 in different\nsituations,\nf) use IT devices for learning\nmore on subtraction of\nnumbers and for enjoyment, g) appreciate subtraction of\nnumbers in real life\nsituations.",
                         " In pairs,groups or as individuals\nsubtract up to 6-digit numbers\nwithout regrouping using place\nvalue apparatus.\n In pairs, groups or as individuals\nsubtract up to 6-digit numbers\nwith regrouping using place value\napparatus.\n In pairs, groups or as individuals\nestimate difference by rounding\noff the minuend and subtrahend\nto the nearest hundred and\nthousand using a number line.\n In pairs, groups or as individuals\nwork out questions involving\naddition and subtraction.\n In pairs, groups or as individuals\ncreate patterns involving\nsubtraction of whole numbers\nfrom up to 1,000,000 using\nnumber charts.\n In pairs or groups play digital\ngames involving subtraction .",
                         "1. How do you\nwork out\nestimate\ndifference to\nthe nearest\nhundred?\n2. How can you\ncreate number\npatterns\ninvolving\nsubtraction?"
                     ]
@@ -324,14 +278,6 @@
                 "page_number": 11,
                 "number_of_columns": 6,
                 "table": [
-                    [
-                        "",
-                        "",
-                        "g) appreciate subtraction of\nnumbers in real life\nsituations.",
-                        null,
-                        "",
-                        ""
-                    ],
                     [
                         "Core Competences to be developed:\n Critical thinking and problem solving: as learners round off and estimates difference.\n Creativity and imagination: as learners create patterns involving subtraction.\n Digital literacy: as learners use IT devices to learn more on subtraction and play games.\n Self-efficacy: as learners report the groups discussion to others.",
                         null,

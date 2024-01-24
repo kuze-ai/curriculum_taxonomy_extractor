@@ -1,0 +1,875 @@
+[
+    {
+        "strand_1": [
+            {
+                "page_number": 6,
+                "number_of_columns": 3,
+                "table": [
+                    {
+                        "column_number_1": "S/No",
+                        "column_number_2": "Learning Area",
+                        "column_number_3": "Number of Lessons"
+                    },
+                    {
+                        "column_number_1": "1.",
+                        "column_number_2": "English",
+                        "column_number_3": "5"
+                    },
+                    {
+                        "column_number_1": "2.",
+                        "column_number_2": "Kiswahili / Kenya Sign Language",
+                        "column_number_3": "4"
+                    },
+                    {
+                        "column_number_1": "3.",
+                        "column_number_2": "Mathematics",
+                        "column_number_3": "5"
+                    },
+                    {
+                        "column_number_1": "4.",
+                        "column_number_2": "Religious Education",
+                        "column_number_3": "3"
+                    },
+                    {
+                        "column_number_1": "5.",
+                        "column_number_2": "Science & Technology",
+                        "column_number_3": "4"
+                    },
+                    {
+                        "column_number_1": "6.",
+                        "column_number_2": "Agriculture and Nutrition",
+                        "column_number_3": "4"
+                    },
+                    {
+                        "column_number_1": "7.",
+                        "column_number_2": "Social Studies",
+                        "column_number_3": "3"
+                    },
+                    {
+                        "column_number_1": "8.",
+                        "column_number_2": "Creative Arts",
+                        "column_number_3": "6"
+                    },
+                    {
+                        "column_number_1": "9.",
+                        "column_number_2": "Pastoral/Religious Instruction Programme",
+                        "column_number_3": "1"
+                    },
+                    {
+                        "column_number_1": "Total",
+                        "column_number_2": null,
+                        "column_number_3": "35"
+                    }
+                ]
+            },
+            {
+                "page_number": 9,
+                "number_of_columns": 3,
+                "table": [
+                    {
+                        "column_number_1": "S/N",
+                        "column_number_2": "STRANDS",
+                        "column_number_3": "SUB STRANDS"
+                    },
+                    {
+                        "column_number_1": "1.0",
+                        "column_number_2": "Conservation of Resources",
+                        "column_number_3": "1.1 Controlling Soil Erosion"
+                    },
+                    {
+                        "column_number_1": null,
+                        "column_number_2": null,
+                        "column_number_3": "1.2 Conserving Water: Seedbeds"
+                    },
+                    {
+                        "column_number_1": null,
+                        "column_number_2": null,
+                        "column_number_3": "1.3 Conserving wild animals: Using Physical Deterrents"
+                    },
+                    {
+                        "column_number_1": "2.0",
+                        "column_number_2": "Food Production Processes",
+                        "column_number_3": "2.1 Rearing Small Domestic Animals"
+                    },
+                    {
+                        "column_number_1": null,
+                        "column_number_2": null,
+                        "column_number_3": "2.2 Preserving Crop Products: Fruits and Vegetables"
+                    },
+                    {
+                        "column_number_1": null,
+                        "column_number_2": null,
+                        "column_number_3": "2.3 Stewing and Baking Food"
+                    },
+                    {
+                        "column_number_1": "3.0",
+                        "column_number_2": "Hygiene Practices",
+                        "column_number_3": "3.1 Body Cleanliness"
+                    },
+                    {
+                        "column_number_1": null,
+                        "column_number_2": null,
+                        "column_number_3": "3.2 Laundry: Stain Removal"
+                    },
+                    {
+                        "column_number_1": "4.0",
+                        "column_number_2": "Production Techniques",
+                        "column_number_3": "4.1 Crocheting of PPEs"
+                    },
+                    {
+                        "column_number_1": "",
+                        "column_number_2": "",
+                        "column_number_3": "4.2 Constructing Moist Bed Garden"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "strand_2": [
+            {
+                "page_number": 10,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Strand",
+                        "column_number_2": "Sub strand",
+                        "column_number_3": "Specific learning\noutcomes",
+                        "column_number_4": "Suggested learning experiences",
+                        "column_number_5": "Suggested\nkey inquiry\nquestions"
+                    },
+                    {
+                        "column_number_1": "1.0 Conservation\nof Resources",
+                        "column_number_2": "1.1 Controlling\nSoil Erosion\n(11 lessons)",
+                        "column_number_3": "By the end of the sub\nstrand the learner\nshould be able to:\na) Describe types of\nsoil erosion in the\nenvironment\nb) Control soil erosion\nin the environment\nc) Appreciate\nimportance of\nconserving soil.",
+                        "column_number_4": "Learners are guided to:\n Watch video clip or photographs or visit\nto observe types of soil erosion.\n Demonstrate how to control various\ntypes of soil erosion (gulley, rill, splash\nand sheet erosion).\n Discuss and make class presentations on\nimportance of controlling soil erosion to\nconserve soil in their environment.\n Learners develop problem solving skills\nwhile demonstrating soil erosion\ncontrol, citizenship when learners show\nconcern for environmental conservation\nin the community and environmental\nawareness as a pertinent concern in the\ncommunity.",
+                        "column_number_5": "How does\nerosion\ncontrol\nconserve the\nenvironment?"
+                    },
+                    {
+                        "column_number_1": "Core Competencies:\nCritical thinking and problem solving: evaluation and decision making skills as learners explore appropriate ways of\ncontrolling soil erosion.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Values:\nResponsibility: proactively solving problems by taking appropriate measures to control soil erosion.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    }
+                ]
+            },
+            {
+                "page_number": 11,
+                "number_of_columns": 1,
+                "table": [
+                    {
+                        "column_number_1": "Pertinent and contemporary issues:\nEnvironmental awareness as learners undertake control of soil erosion in the school environment."
+                    },
+                    {
+                        "column_number_1": "Link to other subjects:\nLearners relate control of soil erosion to knowledge on conservation of natural resources learnt in social studies."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "strand_3": [
+            {
+                "page_number": 12,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Strand",
+                        "column_number_2": "Sub strand",
+                        "column_number_3": "Specific learning\noutcomes",
+                        "column_number_4": "Suggested learning experiences",
+                        "column_number_5": "Suggested\nkey inquiry\nquestions"
+                    },
+                    {
+                        "column_number_1": "1.0\nConservation\nof Resources",
+                        "column_number_2": "1.2\nConserving\nWater:\nSeedbeds\n(11 lessons)",
+                        "column_number_3": "By the end of the sub\nstrand the learner should be\nable to:\na) Identify types of\nseedbeds that conserve\nsoil moisture\nb) Prepare different types\nof seedbeds that\nconserve soil moisture\nc) Appreciate importance\nof conserving moisture\nin a seedbed to increase\nchances of plants\ngrowth.",
+                        "column_number_4": "Learners are guided to:\n Watch video clips, photographs, visit sites or on\nvarious types of seedbeds that conserve\nmoisture such as sunken bed, moisture bed, and\nshallow pits.\n Prepare seedbeds that conserve moisture\n(sunken seedbed and shallow pit).\n Utilize the sunken seedbed and shallow pits to\nappreciate the importance moisture\nconservation.\n Learners develop problem solving skills as they\nconserve soil moisture, the value of social\njustice while sharing tasks and responsibilities,\nand environmental awareness of water as a\nscarce resource.",
+                        "column_number_5": "How can we\nprepare a\nseedbed to\nconserve\nmoisture?"
+                    },
+                    {
+                        "column_number_1": "Core Competencies:\nCritical thinking and problem solving: open mindedness and creativity as learners look for possibilities for conserving soil\nmoisture.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Values:\nSocial justice: fairness and justice as learners share tasks and responsibilities in preparation of seedbeds.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Pertinent and contemporary issues:\nConservation of resources as learners conserve water through preparation of water conserving seedbeds.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Link to other subjects:\nLearners relate conservation of soil moisture to farming activities learnt in social studies.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "strand_4": [
+            {
+                "page_number": 13,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Strand",
+                        "column_number_2": "Sub strand",
+                        "column_number_3": "Specific learning\noutcomes",
+                        "column_number_4": "Suggested learning experiences",
+                        "column_number_5": "Suggested\nkey inquiry\nquestions"
+                    },
+                    {
+                        "column_number_1": "1.0 Conservation\nof Resources",
+                        "column_number_2": "1.3\nConserving\nwild animals:\nUsing\nPhysical\nDeterrents\n(10 lessons)",
+                        "column_number_3": "By the end of the sub\nstrand the learner should be\nable to:\na) Identify deterrents that\ncan keep off from crop\nand domestic animals\nb) Establish deterrents to\nkeep off wild animals\nfrom destroying crops\nand domestic animals\nc) Acknowledge the\nimportance of\ndeterrents in\nconserving wild\nanimals in safeguarding\ncrops and domestic\nanimals.",
+                        "column_number_4": "Learners are guided to:\n Search for information on physical\ndeterrents search such as mesh fences,\nthorny fences, safe traps, innovative\nlights, innovative sounds, and\ndeflectors.\n Select and establish a deterrent\napplicable in their local context.\n Discuss with a resource person on the\nuse of physical deterrents to\nacknowledge the importance of\nconserving wild animals in\nsafeguarding crops and domestic\nanimals.\n Learners develop creativity skills in\ndetermining an applicable deterrent to\nsolve animal menace, compassion and\ncare for the wild animals, and animal\nprotection to conserve biodiversity.",
+                        "column_number_5": "How can\nwild animals\nbe kept\naway from\ncrops and\ndomestic\nanimals?"
+                    },
+                    {
+                        "column_number_1": "Core Competencies:\nCreativity and imagination: exploration skills as learners seek new ideas to establish physical deterrents against wild animals\nthat destroy crops and domestic animals.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    }
+                ]
+            },
+            {
+                "page_number": 14,
+                "number_of_columns": 1,
+                "table": [
+                    {
+                        "column_number_1": "Values:\nPatriotism: consciousness of social and moral duties to conserve wild animals and promote biodiversity."
+                    },
+                    {
+                        "column_number_1": "Pertinent and contemporary issues:\nProtection of biodiversity against extinction by deterring them without killing them."
+                    },
+                    {
+                        "column_number_1": "Link to other subjects:\nLearners relate conservation of wild animals through use of deterrents to knowledge on importance of wildlife learnt in social\nstudies."
+                    }
+                ]
+            },
+            {
+                "page_number": 14,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Indicator",
+                        "column_number_2": "Exceeds expectation",
+                        "column_number_3": "Meets expectation",
+                        "column_number_4": "Approaches expectation",
+                        "column_number_5": "Below expectation"
+                    },
+                    {
+                        "column_number_1": "Ability to describe\nhow to conserve\nresources.",
+                        "column_number_2": "Describes three ways\n(soil erosion control,\nwater conserving\nseedbed, physical\ndeterrents to control\nwild animals) of\nconserving resources\nwith exemplified\ndetails.",
+                        "column_number_3": "Describes three ways\n(soil erosion control,\nwater conserving\nseedbed, physical\ndeterrents to control\nwild animals) of\nconserving resources.",
+                        "column_number_4": "Describes at least two\nways (soil erosion\ncontrol, water conserving\nseedbed, physical\ndeterrents to control wild\nanimals) of conserving\nresources.",
+                        "column_number_5": "Describes less than two\nways (soil erosion\ncontrol, water conserving\nseedbed, physical\ndeterrents to control wild\nanimals) of conserving\nresources."
+                    },
+                    {
+                        "column_number_1": "Ability to\nconserve\nresources",
+                        "column_number_2": "Carries out conservation\nof resources using three\nways (soil erosion\ncontrol, water\nconserving seedbed,\nphysical deterrents to",
+                        "column_number_3": "Carries out\nconservation of\nresources using three\nways (soil erosion\ncontrol, water\nconserving seedbed,",
+                        "column_number_4": "Carries out conservation\nof resources using at least\ntwo ways (soil erosion\ncontrol, water conserving\nseedbed, physical",
+                        "column_number_5": "Carries out conservation\nof resources using less\ntwo ways (soil erosion\ncontrol, water conserving\nseedbed, physical"
+                    }
+                ]
+            },
+            {
+                "page_number": 15,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "",
+                        "column_number_2": "control wild animals)\nthrough both\nconventional and\ninnovative practices.",
+                        "column_number_3": "physical deterrents to\ncontrol wild animals).",
+                        "column_number_4": "deterrents to control wild\nanimals).",
+                        "column_number_5": "deterrents to control wild\nanimals)."
+                    },
+                    {
+                        "column_number_1": "Exhibits\npatriotism in\nconservation of\nresources.",
+                        "column_number_2": "Exhibits more than three\nindicators of patriotism\n(effort to serve school\ncommunity, obey group\nnorms, aware of own\nresponsibility) in\nconserving resources.",
+                        "column_number_3": "Exhibits three\nindicators of\npatriotism (effort to\nserve school\ncommunity, obey\ngroup norms, aware\nof own responsibility)\nin conserving\nresources.",
+                        "column_number_4": "Exhibits at least two\nindicators of patriotism\n(effort to serve school\ncommunity, obey group\nnorms, aware of own\nresponsibility) in\nconserving resources.",
+                        "column_number_5": "Exhibits less than two\nindicators of patriotism\n(effort to serve school\ncommunity, obey group\nnorms, aware of own\nresponsibility) in\nconserving resources."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "strand_5": [
+            {
+                "page_number": 16,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Strand",
+                        "column_number_2": "Sub strand",
+                        "column_number_3": "Specific learning outcomes",
+                        "column_number_4": "Suggested learning experiences",
+                        "column_number_5": "Suggested\nkey inquiry\nquestions"
+                    },
+                    {
+                        "column_number_1": "2.0 Food\nProduction\nProcesses",
+                        "column_number_2": "2.1 Rearing\nSmall\nDomestic\nAnimals\n(12 lessons)",
+                        "column_number_3": "By the end of the sub strand\nthe learner should be able\nto:\na) Explain routine practices\nin rearing of small\ndomestic animals\nb) Rear small domestic\nanimals used as sources\nof food\nc) Embrace the rearing of\nsmall domestic animals\nused as sources of food.",
+                        "column_number_4": "Learners are guided to:\n Share experiences on routine practices in\nrearing of small domestic animals.\n Rear small domestic animal such as rabbits\nand guinnea pig to practice routine practices\nsuch as housing, feeding, watering,\nsanitation and parasite control.\n Learners develop self-realization and\nconfidence as they rear small domestic\nanimals, integrity in fair allocation of\nresources and tasks and observing animal\nwelfare while handling the animals in the\nrearing project.",
+                        "column_number_5": "How does\nrearing of\nanimal\ncontribute to\nfood\nproduction?"
+                    },
+                    {
+                        "column_number_1": "Core Competencies:\nSelf-efficacy: self-realization and confidence as learners rear small domestic animals such as rabbits for food production.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Values:\nIntegrity: fairness in allocation of resources and tasks in the project for rearing small domestic animals.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Pertinent and contemporary issues:\nAnimal welfare in the handling and caring for small domestic animals.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Link to other subjects:\nLearners relate rearing of small domestic animals to knowledge of farming as a socio-economic activity learnt in social\nstudies.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "strand_6": [
+            {
+                "page_number": 17,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Strand",
+                        "column_number_2": "Sub strand",
+                        "column_number_3": "Specific learning\noutcomes",
+                        "column_number_4": "Suggested learning experiences",
+                        "column_number_5": "Suggested key\ninquiry\nquestions"
+                    },
+                    {
+                        "column_number_1": "2.0 Food\nProduction\nProcesses",
+                        "column_number_2": "2.2\nPreserving\nCrop\nProducts:\nFruits and\nVegetables\n(11\nlessons)",
+                        "column_number_3": "By the end of the sub\nstrand the learner should\nbe able to:\na) Describe how to\npreserve and store\nfruits and vegetables\nat home\nb) Preserve fruits and\nvegetables using\ndrying method\nc) Adopt preservation\nand storage of fruits\nand vegetables to\nreduce food wastage.",
+                        "column_number_4": "Learners are guided to:\n Watch video clips or listen to resource person\nand share experiences on how to preserve fruits\nand vegetables using sun-drying methods.\n Preserve fruits or vegetables using drying\nmethod.\n Adopt preservation and storage of fruits and\nvegetables at home to reduce food wastage.\n Learners develop problem solving skills as they\npreserve fruits and vegetables to reduce wastage,\nintegrity by observing hygienic and safe methods\nof preservation and food security as a social\nconcern to ensure constant supply of fruits and\nvegetables.",
+                        "column_number_5": "How does\npreservation of\nfruits and\nvegetables\nenhance food\nsecurity?"
+                    },
+                    {
+                        "column_number_1": "Core Competencies:\nCritical thinking and problem solving: evaluation and decision making skills as learners explore ways of preserving fruits and\nvegetables to prevent spoilage.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Values:\nIntegrity: choosing to do the right thing and being honest by observing ethical, hygienic and safe methods of preserving fruits\nand vegetables.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    }
+                ]
+            },
+            {
+                "page_number": 18,
+                "number_of_columns": 1,
+                "table": [
+                    {
+                        "column_number_1": "Pertinent and contemporary issues:\nFood and nutrition security as learners preserve fruits and vegetables to avoid spoilage."
+                    },
+                    {
+                        "column_number_1": "Link to other subjects:\nLearners relate the preserved parts of fruits and vegetables to the parts of plant learnt in science and technology."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "strand_7": [
+            {
+                "page_number": 19,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Strand",
+                        "column_number_2": "Sub strand",
+                        "column_number_3": "Specific learning outcomes",
+                        "column_number_4": "Suggested learning experiences",
+                        "column_number_5": "Suggested key\ninquiry\nquestions"
+                    },
+                    {
+                        "column_number_1": "2.0 Food\nProduction\nProcesses",
+                        "column_number_2": "2.3 Stewing\nand Baking\nFood\n( 13 lessons)",
+                        "column_number_3": "By the end of the sub strand\nthe learner should be able to:\na) Describe stewing and\nbaking as methods of\ncooking\nb) Cook food using stewing\nand baking methods\nc) Embrace stewing and\nbaking in food\nproduction.",
+                        "column_number_4": "Learners are guided to:\n Watch video clip or demonstration on\nstewing and baking methods of cooking.\n Cook and serve foods prepared through\nstewing and baking (rubbing-in method).\n Learners develop learning to learn while\nworking cautiously to stewing and baking\nprocesses, working resiliently while\nfollowing cooking steps, promoting safety\nmeasures while working with fire and\nsteam.",
+                        "column_number_5": "1. How can we\ncook foods\nusing\nbaking\nmethods?\n2. How can we\ncook foods\nusing\nstewing\nmethods?"
+                    },
+                    {
+                        "column_number_1": "Core Competencies:\nLearning to learn: reflection of own learning to apply stewing and baking of foods.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Values:\nIntegrity: prudent use of resources and application of laid down procedure in stewing and baking foods.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Pertinent and contemporary issues:\nSafety of self and others while working with fire and steam in cooking foods.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Link to other subjects:\nLearners relate measuring of ingredients for baking to measurement of weights learnt in mathematics.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    }
+                ]
+            },
+            {
+                "page_number": 20,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Indicator",
+                        "column_number_2": "Exceeds expectation",
+                        "column_number_3": "Meets expectation",
+                        "column_number_4": "Approaches\nexpectation",
+                        "column_number_5": "Below expectation"
+                    },
+                    {
+                        "column_number_1": "Ability to\ndescribe food\nproduction\nprocesses",
+                        "column_number_2": "Describes three food\nproduction processes\n(rearing domestic animals,\npreserving fruits and\nvegetables, cooking by\nstewing and baking foods)\nwith illustrative details.",
+                        "column_number_3": "Describes three food\nproduction processes\n(rearing domestic\nanimals, preserving\nfruits and vegetables,\ncooking by stewing and\nbaking foods).",
+                        "column_number_4": "Describes two food\nproduction processes\n(rearing domestic\nanimals, preserving\nfruits and vegetables,\ncooking by stewing and\nbaking foods).",
+                        "column_number_5": "Describes less than two\nfood production processes\n(rearing domestic animals,\npreserving fruits and\nvegetables, cooking by\nstewing and baking\nfoods)."
+                    },
+                    {
+                        "column_number_1": "Ability to\ncarry out",
+                        "column_number_2": "Carries out conservation\nof resources using three\nways (soil erosion control,\nwater conserving seedbed,\nphysical deterrents to\ncontrol wild animals)\nthrough both conventional\nand innovative practices.",
+                        "column_number_3": "Carries out conservation\nof resources using three\nways (soil erosion\ncontrol, water\nconserving seedbed,\nphysical deterrents to\ncontrol wild animals).",
+                        "column_number_4": "Carries out conservation\nof resources using at\nleast two ways (soil\nerosion control, water\nconserving seedbed,\nphysical deterrents to\ncontrol wild animals).",
+                        "column_number_5": "Carries out conservation\nof resources using less\ntwo ways (soil erosion\ncontrol, water conserving\nseedbed, physical\ndeterrents to control wild\nanimals)."
+                    },
+                    {
+                        "column_number_1": "Exhibits\npatriotism in\nconservation\nof resources.",
+                        "column_number_2": "Exhibits more than three\nindicators of patriotism\n(effort to serve school\ncommunity, obey group\nnorms, aware of own\nresponsibility) in\nconserving resources.",
+                        "column_number_3": "Exhibits three indicators\nof patriotism (effort to\nserve school\ncommunity, obey group\nnorms, aware of own\nresponsibility) in\nconserving resources.",
+                        "column_number_4": "Exhibits at least two\nindicators of patriotism\n(effort to serve school\ncommunity, obey group\nnorms, aware of own\nresponsibility) in\nconserving resources.",
+                        "column_number_5": "Exhibits less than two\nindicators of patriotism\n(effort to serve school\ncommunity, obey group\nnorms, aware of own\nresponsibility) in\nconserving resources."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "strand_8": [
+            {
+                "page_number": 21,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Strand",
+                        "column_number_2": "Sub strand",
+                        "column_number_3": "Specific learning\noutcomes",
+                        "column_number_4": "Suggested learning experiences",
+                        "column_number_5": "Suggested\nkey inquiry\nquestions"
+                    },
+                    {
+                        "column_number_1": "3.0 Hygiene\nPractices",
+                        "column_number_2": "3.1 Body\nCleanliness\n(9 lessons)",
+                        "column_number_3": "By the end of the sub\nstrand the learner should\nbe able to:\na) Describe practices that\nenhance body\ncleanliness as habits\nb) Adopt body\ncleanliness as a health\nroutine.\nc) Recognize importance\nof body cleanliness as\na healthy habit.",
+                        "column_number_4": "Learners are guided to:\n Discuss and share experiences on body\ncleanliness practices (managing sweat, acnes\nand pimples, menstrual hygiene and care of\npubic parts) that enhance personal hygiene.\n Embrace applicable good routines that suit their\nbody cleanliness\n Discuss the importance of body cleanliness as a\nhealthy habit.\n Learners develop self-confidence while\nmaintaining personal cleanliness, tolerance for\nothers while appreciating their differences and\npromotion of preventive health.",
+                        "column_number_5": "How does\nbody\ncleanliness\nenhance\npersonal\nhygiene?"
+                    },
+                    {
+                        "column_number_1": "Core Competencies:\nSelf-efficacy: self-confidence skills while learners maintain personal cleanliness as a health habit.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Values:\nPeace: tolerance for others while learners appreciate their personal and preferential differences relating to body cleanliness.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Pertinent and contemporary issues:\nPersonal hygiene as learners adopt body cleanliness practices.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Link to other subjects:\nLearners relate body cleanliness as a healthy habit to knowledge of growth and development learnt in science and technology.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "strand_9": [
+            {
+                "page_number": 22,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Strand",
+                        "column_number_2": "Sub strand",
+                        "column_number_3": "Specific learning\noutcomes",
+                        "column_number_4": "Suggested learning experiences",
+                        "column_number_5": "Suggested\nkey inquiry\nquestions"
+                    },
+                    {
+                        "column_number_1": "3.0 Hygiene\nPractices",
+                        "column_number_2": "3.2 Laundry:\nStain\nRemoval\n(12 lessons)",
+                        "column_number_3": "By the end of the sub\nstrand the learner should be\nable to:\na) Identify common stains\non clothing and\nhousehold articles\nb) Remove common\nstains from clothing\nand household articles\nc) Adopt stain removal for\npersonal hygiene.",
+                        "column_number_4": "Learners are guided to:\n Use digital resources and sample articles to\nidentify common stains (blood and grass)\non clothing and household articles.\n Carry out removal of common stains\n(blood and grass) on clothing and\nhousehold articles.\n Practise and adopt stain removal for\npersonal hygiene.\n Learners to develop learning to learn as\nthey adopt different ways of removing\nstains, responsibility as they take care of\ntheir clothes and personal hygiene as they\nmaintain cleanliness.",
+                        "column_number_5": "How does\nstain removal\nenhance\npersonal\nhygiene?"
+                    },
+                    {
+                        "column_number_1": "Core Competencies:\nLearning to learn: researching skills as learners identify and use different ways of removing stains.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Values:\nResponsibility: proactive engagement skills by removing stains to maintain cleanliness.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Pertinent and contemporary issues:\nPersonal hygiene as learners maintain cleanliness by removing stains from their clothes.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Link to other subjects:\nLearners relates removal of stains on cloths to knowledge of solvents learnt in science and technology.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    }
+                ]
+            },
+            {
+                "page_number": 23,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Indicator",
+                        "column_number_2": "Exceeds expectation",
+                        "column_number_3": "Meets expectation",
+                        "column_number_4": "Approaches expectation",
+                        "column_number_5": "Below expectation"
+                    },
+                    {
+                        "column_number_1": "Ability to describe\nhygiene practices\nthat enhance\nappearance.",
+                        "column_number_2": "Describes two hygiene\npractices (body\ncleanliness and stain\nremoval) with elaborate\ndetails.",
+                        "column_number_3": "Describes two\nhygiene practices\n(body cleanliness and\nstain removal) that\nenhance appearance.",
+                        "column_number_4": "Describes one hygiene\npractice (body\ncleanliness and stain\nremoval) that enhance\nappearance.",
+                        "column_number_5": "Partially describes\nhygiene practices (body\ncleanliness and stain\nremoval) that enhance\nappearance."
+                    },
+                    {
+                        "column_number_1": "Ability to apply\nhygiene practices\nthat enhance\nappearance",
+                        "column_number_2": "Applies two hygiene\npractices (body\ncleanliness and stain\nremoval) with attention\nto details.",
+                        "column_number_3": "Applies two hygiene\npractices (body\ncleanliness and stain\nremoval) that enhance\nappearance.",
+                        "column_number_4": "Applies one hygiene\npractice (body\ncleanliness or stain\nremoval) that enhance\nappearance.",
+                        "column_number_5": "Applies one hygiene\npractice (body\ncleanliness or stain\nremoval) with specific\nguidance."
+                    },
+                    {
+                        "column_number_1": "Ability to\ndemonstrate\nresponsibility in\napplying hygiene\npractices that\nenhance\nappearance.",
+                        "column_number_2": "Demonstrates three\naspects of responsibility\n(care for own items,\nproactively solve\nproblems and respecting\nother person’s items)\nwhile practicing\nhygiene and shows\nqualities of leadership\nin tasks.",
+                        "column_number_3": "Demonstrates three\naspects of\nresponsibility (care\nfor own items,\nproactively solve\nproblems and\nrespecting other\nperson’s items) while\npracticing hygiene.",
+                        "column_number_4": "Demonstrates two\naspects of responsibility\n(care for own items,\nproactively solve\nproblems and respecting\nother person’s items)\nwhile practicing hygiene.",
+                        "column_number_5": "Demonstrates less than\ntwo aspects of\nresponsibility (care for\nown items, proactively\nsolve problems and\nrespecting other person’s\nitems) while practicing\nhygiene."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "strand_10": [
+            {
+                "page_number": 24,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Strand",
+                        "column_number_2": "Sub\nstrand",
+                        "column_number_3": "Specific learning\noutcomes",
+                        "column_number_4": "Suggested learning experiences",
+                        "column_number_5": "Suggested\nkey inquiry\nquestions"
+                    },
+                    {
+                        "column_number_1": "4.0\nProduction\nTechniques",
+                        "column_number_2": "4.1\nCrocheting\nof PPEs\n(16\nlessons)",
+                        "column_number_3": "By the end of the sub\nstrand the learner\nshould be able to:\na) Identify\ncrocheting stitches\nin making\nhousehold article.\nb) Use crocheting\nstitches to make a\nhousehold article\nc) Adopt use of\ncrocheting stiches\nin making\nhousehold articles.",
+                        "column_number_4": "Learners are guided to:\n Observe a demonstration by resource person, video clip\nor photographs to identify crocheting stitches (single and\ndouble crochet stitches) in making household article.\n Use (single or double crochet stitches) to make articles\nsuch as personal protective equipment, mat, cleaning\nrug, and surface wipers.\n Adopt use of crocheting stiches in making household\narticles used in their daily routines.\n Learners develop creativity skills as they construct items\nusing crocheting skills, compassion as learners learn\nfrom each other and financial literacy as they reduce\nexpenses by constructing personal protective equipment.",
+                        "column_number_5": "How can\ncrocheting\nsolve daily\nproblems?"
+                    },
+                    {
+                        "column_number_1": "Core Competencies:\nCreativity and imagination: originality skills as learners develop crocheted PPE.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Values:\nIntegrity: prudent use of resources as the learners make household articles using crocheting stitches.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Pertinent and contemporary issues:\nFinancial literacy as learners save costs by constructing their own PPEs.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Link to other subjects:\nLearners relate construction of PPEs by use of crocheting to artistic skills learnt in creative art.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "strand_11": [
+            {
+                "page_number": 25,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Strand",
+                        "column_number_2": "Sub strand",
+                        "column_number_3": "Specific learning\noutcomes",
+                        "column_number_4": "Suggested learning experiences",
+                        "column_number_5": "Suggested\nkey inquiry\nquestions"
+                    },
+                    {
+                        "column_number_1": "4.0\nProduction\nTechniques",
+                        "column_number_2": "4.2\nConstructing\nMoist Bed\nGarden\n(15 lessons)",
+                        "column_number_3": "By the end of the sub\nstrand the learner should\nbe able to:\na) Explain the meaning of\nmoist bed garden\nb) Construct a moist bed\ngarden for growing a\nselected crop\nc) Embrace the use of\nmoist bed garden in\ngrowing crops.",
+                        "column_number_4": "Learners are guided to:\n Search and share information on the\nmeaning of moist bed garden.\n Construct a moist bed (sunken or raised\nmoist bed) using locally available materials.\n Establish and grow a crop of their choice on\na moist bed garden.\n Learners develop communication skills as\nthey search and share information on moist\nbed garden, exercise respect while sharing\nthe information and environmental\nconservation by reusing locally available\nmaterials to construct moist bed garden",
+                        "column_number_5": "How can\nconstruct a\nmoist bed\ngardens to\ngrow crops?"
+                    },
+                    {
+                        "column_number_1": "Core Competencies:\nCommunication and collaboration: team work as learners share information on moist bed garden.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Values:\nRespect: appreciation of diverse opinion as learners share information on moist bed garden.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Pertinent and contemporary issues:\nEnvironmental conservation as learners use locally available materials to construct moist bed garden.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    },
+                    {
+                        "column_number_1": "Link to other subjects:\nLearners relate skills used in construction of moist bed garden to craft skills learnt in creative arts.",
+                        "column_number_2": null,
+                        "column_number_3": null,
+                        "column_number_4": null,
+                        "column_number_5": null
+                    }
+                ]
+            },
+            {
+                "page_number": 26,
+                "number_of_columns": 5,
+                "table": [
+                    {
+                        "column_number_1": "Indicator",
+                        "column_number_2": "Exceeds expectation",
+                        "column_number_3": "Meets expectation",
+                        "column_number_4": "Approaches expectation",
+                        "column_number_5": "Below expectation"
+                    },
+                    {
+                        "column_number_1": "Ability to explain\nproduction\ntechniques.",
+                        "column_number_2": "Explains two production\ntechniques (crocheting\nin construction of\nclothing and\nconstruction of moist\nbed garden) with\nillustrative details.",
+                        "column_number_3": "Explains two\nproduction techniques\n(crocheting in\nconstruction of\nclothing and\nconstruction of moist\nbed garden).",
+                        "column_number_4": "Explains one production\ntechniques (crocheting in\nconstruction of clothing\nand construction of moist\nbed garden).",
+                        "column_number_5": "Explains production\ntechniques (crocheting in\nconstruction of clothing\nand construction of moist\nbed garden) with partial\ndetails."
+                    },
+                    {
+                        "column_number_1": "Ability to use\nproduction\ntechniques.",
+                        "column_number_2": "Uses two production\ntechniques (item\nmaking by crocheting\nand construction of\nmoist bed garden) with\ncreative and innovative\napproaches.",
+                        "column_number_3": "Uses two production\ntechniques (item\nmaking by crocheting\nand construction of\nmoist bed garden).",
+                        "column_number_4": "Uses one production\ntechnique (item making\nby crocheting and\nconstruction of moist bed\ngarden).",
+                        "column_number_5": "Uses production\ntechniques (item making\nby crocheting and\nconstruction of moist bed\ngarden) with outputs that\nrequire improvement."
+                    },
+                    {
+                        "column_number_1": "Ability to\ndemonstrate\nintegrity in\nproduction.",
+                        "column_number_2": "Demonstrates more than\nthree aspects of integrity\n(applies expected\nprocedure, prudently\nuses resources and\nshows honesty) in the\nproduction techniques.",
+                        "column_number_3": "Demonstrates three\naspects of integrity\n(applies expected\nprocedure, prudently\nuses resources and\nshows honesty) in the\nproduction\ntechniques.",
+                        "column_number_4": "Demonstrates two aspects\nof integrity (applies\nexpected procedure,\nprudently uses resources\nand shows honesty) in the\nproduction techniques.",
+                        "column_number_5": "Demonstrates less than\ntwo aspects of integrity\n(applies expected\nprocedure, prudently uses\nresources and shows\nhonesty) in the\nproduction techniques."
+                    }
+                ]
+            },
+            {
+                "page_number": 27,
+                "number_of_columns": 1,
+                "table": [
+                    {
+                        "column_number_1": "Steps in carrying out the integrated CSL activity"
+                    },
+                    {
+                        "column_number_1": "1) Preparation\n● Map out the targeted core competencies, values and specific learning areas skills for the CSL activity\n● Identify resources required for the activity (locally available materials)\n● Stagger the activities across the term (Set dates and time for the activities)\n● Communicate to learners, parents/caregivers/guardians, school administration, teachers and other relevant stakeholders\nin the school community\n● Identify and develop assessment tools"
+                    }
+                ]
+            },
+            {
+                "page_number": 28,
+                "number_of_columns": 1,
+                "table": [
+                    {
+                        "column_number_1": "2) Implementation CSL Activity\n● Assigning roles to learners.\n● Ensure every learner actively participates in the activity\n● Observe learners as they carry out the CSL activity and record feedback.\n● Use an appropriate assessment tool to assess both the process and the product (Assess learner’s work from the\nbeginning to the end product)\n● Assess the targeted core competencies, values and subject skills."
+                    },
+                    {
+                        "column_number_1": "3) Reflection on the CSL Activity\nConduct a self-evaluation session with learners on the integrated CSL activity undertaken by discussing the following:\n● what went well and why\n● what did not go well and why,\n● what can be done differently next time\n● what they have learnt."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "strand_12": [
+            {
+                "page_number": 30,
+                "number_of_columns": 4,
+                "table": [
+                    {
+                        "column_number_1": "Strand",
+                        "column_number_2": "Suggested\nAssessment\nMethods",
+                        "column_number_3": "Suggested Learning Resources",
+                        "column_number_4": "Suggested Non-formal Activities"
+                    },
+                    {
+                        "column_number_1": "Conservation of\nResources",
+                        "column_number_2": "-Observation of\nlearning\n-Tests (written and\noral)\n-Project",
+                        "column_number_3": "Suitable organic materials for\ncomposting such as slashed\nvegetation, kitchen wastes and\nanimal wastes, digging tools such\nas jembes and spade, metal pipes,\nplastic pipes, assorted containers\nsuch bottles, buckets and Jerri cans,\nmulching materials such as dry\ngrass, suitable cover crop, Stakes\nfor erecting shade, Charts, pictures\nand video clips, cooking pans and\npots suitable materials for making a\nscare crow such as sticks or pieces\nof timber, nails, threads and wires,\nstuffing materials and old clothes,\nwild animal repellants such as\nsmoke and smelly substances,\nresource person, materials for\ncontrolling soil erosion such as\nstones, wire mesh, poles, twigs.\nmaterials for making physical",
+                        "column_number_4": " Collect suitable composting\nmaterials from the environment,\n Visit gardens in the\nneighbourbood to observe water\nconservation measure and\nintegrated farming.\n -learners to initiate soil\nconservation measures in the\nschool based on common forms\nof erosion in the environment.\n Learners to initiate water\nharvesting and conservation\nbased on common form of water\nwastage points in the school.\n Learners to initiate bird feeding\ntable to attract and nourish wild\nbirds using waste foods.\n Learners debate on advantages\nand disadvantages of fuels."
+                    }
+                ]
+            },
+            {
+                "page_number": 31,
+                "number_of_columns": 4,
+                "table": [
+                    {
+                        "column_number_1": "",
+                        "column_number_2": "",
+                        "column_number_3": "deterrents such as innovation lights,\ndeflectors, safe traps.",
+                        "column_number_4": " Making exhibitions of fuel saving\nenergy cookers, improvised\nbaking ovens, simple hand\nwashing facilities, deterrents"
+                    },
+                    {
+                        "column_number_1": "Food Production\nProcesses",
+                        "column_number_2": "Observation of\nlearning\n-Tests (written and\noral)\n-Project",
+                        "column_number_3": "Container or ground gardens/ open\nspaces, tiny seeds such as carrots\nand millet, garden tools and\nequipment such as pangas, jembes\nand forked jembes, watering cans,\ncharts, photographs or video clips\non domestic animals, pictures,\nvideo clips, different types of\nfoodstuffs, kitchen tools and\nequipment (cooking pans and pots,\nchopping boards, kitchen knife,\nwooden spoon, frying spoon),\nsuitable frying equipment and\nmaterials, source of heat, resource\nperson. Suitable vegetable seeds in\nthe locality, assorted cereals and\npulses, natural preservatives such\nas ash, air tight containers, small\ndomestic animal such as rabbit or\nguinea pig, improvised feeders and\nwaterers, housing structure for the\nsmall domestic animals, variety of",
+                        "column_number_4": " Participate in 4k clubs, ASK\nshows and famer’s days\n Learners make presentations in\nassemblies and open days on\nbenefits of eating organically\ngrown foods.\n Learners create talking walls on\nvarious themes to educate the\ncommunity\n Create journals and logs on\nhealthy eating habits.\n Peer teach other on use and care\nof kitchen equipment."
+                    }
+                ]
+            },
+            {
+                "page_number": 32,
+                "number_of_columns": 4,
+                "table": [
+                    {
+                        "column_number_1": "",
+                        "column_number_2": "",
+                        "column_number_3": "fruits and vegetables, drying rack,\nnetting materials, improvised\nbaking equipment,",
+                        "column_number_4": ""
+                    },
+                    {
+                        "column_number_1": "Hygiene Practices",
+                        "column_number_2": "Observation of\nlearning\n-Tests (written and\noral)\n-Project",
+                        "column_number_3": "Hand washing materials and\nequipment, variety of PPEs (gloves,\nmasks, gumboots, head gear,\noverall,), Cleaning materials and\nequipment such as buckets/basin ,\nbrooms, brushes, floor clothes,\ndetergent and clean water, canvas\nshoes, resource person, pictures or\nvideos on ways good grooming,\ndifferent surfaces in the home\nenvironment such as cemented,\ntiled, earthen and wooden),fast and\nwhite coloured items, clothe lines,\npegs. Stain removal agents",
+                        "column_number_4": " Learners draw posters on\nwashing of hands.\n learners make leaky tins of tippy\ntaps for washing hands and place\nthem in the different types of the\nschool compound.\n Compose and sing Usafi songs\nand poems on good grooming."
+                    },
+                    {
+                        "column_number_1": "Production Techniques",
+                        "column_number_2": "Observation of\nlearning\n-Tests (written and\noral)\n-Project",
+                        "column_number_3": "Needle work tools such as needles,\ncrocheting hooks, scissors, tape\nmeasures, sewing thread, yarn,\ndress maker pins, fabric, pin\ncushion, thimbles., sacks, plastic\nbottles, walls , wooden frames,\ntopsoil, manures, poles, plastic\nsheet, offcuts/timber, top soil,\nmanures,",
+                        "column_number_4": " Use clubs to sensitize the school\ncommunity on repair of\ngarments.\n Sensitize learners in health clubs\non stain removal.\n Draw pictures of different needle\nwork tools.\n Carry out an exhibition to display\ncrotched items."
+                    }
+                ]
+            }
+        ]
+    }
+]

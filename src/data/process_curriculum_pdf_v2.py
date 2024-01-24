@@ -186,19 +186,27 @@ def merge_strand_and_indicator(tables, column_positions):
     return strand_data
 
 
+def process_table(table):
+    processed_table = []
+    for row in table:
+        row_data = {f"column_number_{i+1}": cell for i, cell in enumerate(row)}
+        processed_table.append(row_data)
+    return processed_table
+
 def extract_tables_grouped_by_strand(pdf_path):
-    grade = extract_grade(pdf_path)
+    grade = extract_grade(pdf_path)  # Assuming extract_grade is defined elsewhere
     with pdfplumber.open(pdf_path) as pdf:
         all_tables = []
-        for i in range(0, len(pdf.pages)):
+        for i in range(len(pdf.pages)):
             page = pdf.pages[i]
             tables = page.extract_tables()
             for table in tables:
+                processed_table = process_table(table)
                 all_tables.append({
                     "page_number": i + 1,
                     "grade": grade,
                     "number_of_columns": len(table[0]),
-                    "table": table
+                    "table": processed_table
                 })
 
         all_strands = []
@@ -209,8 +217,8 @@ def extract_tables_grouped_by_strand(pdf_path):
             page_number = table_info["page_number"]
             table = table_info["table"]
             
-            if "Strand" in ' '.join(filter(None, table[0])):  # Check if "Strand" is in the first row of the table
-                if current_strand:  # If current strand is not empty
+            if "Strand" in ' '.join(filter(None, [cell for row in table for cell in row.values() if cell])):  # Check if "Strand" is in any cell of the table
+                if current_strand:
                     all_strands.append({"strand_" + str(strand_counter): current_strand})
                     strand_counter += 1
                     current_strand = []
@@ -221,7 +229,6 @@ def extract_tables_grouped_by_strand(pdf_path):
                 "table": table
             })
 
-        # Append the last strand if not empty
         if current_strand:
             all_strands.append({"strand_" + str(strand_counter): current_strand})
 
@@ -291,5 +298,6 @@ def main(directory_path):
             # print(f"Processed data written to {processed_pdf_path}")
 
 if __name__ == '__main__':
-    directory_path = "/home/dataiku/kn_workspace/currilculum_taxonomy_extractor/data/ALL"
+    directory_path = "/home/dataiku/kn_workspace/currilculum_taxonomy_extractor/data/ALL/PDF"
+    # directory_path = "/home/dataiku/kn_workspace/currilculum_taxonomy_extractor/data/math_downloads/ALL_MATH/PDF"
     main(directory_path)
