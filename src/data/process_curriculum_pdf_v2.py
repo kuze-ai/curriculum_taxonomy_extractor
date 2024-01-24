@@ -186,6 +186,7 @@ def merge_strand_and_indicator(tables, column_positions):
     return strand_data
 
 
+
 def process_table(table):
     processed_table = []
     for row in table:
@@ -233,7 +234,6 @@ def extract_tables_grouped_by_strand(pdf_path):
             all_strands.append({"strand_" + str(strand_counter): current_strand})
 
         return all_strands
-
 
 def save_grouped_tables_as_json(pdf_path):
     # Extract tables grouped by strand from the PDF
