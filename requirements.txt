@@ -12,5 +12,6 @@ pdfplumber
 jupyterlab
 BeautifulSoup4
 gdown
-# pandas
+ipdb
+pandas
 # re
