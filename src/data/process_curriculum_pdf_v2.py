@@ -4,6 +4,23 @@ import os
 import pdfplumber
 import json
 import pandas as pd
+import re
+
+def extract_grade(pdf_path):
+    with pdfplumber.open(pdf_path) as pdf:
+        first_page = pdf.pages[0]
+        text = first_page.extract_text()
+        # Assuming the grade is formatted as "Grade 6" or "6th Grade"
+        match = re.search(r"Grade (\d+)", text)
+        if match:
+            return match.group(1)
+        # Fallback for different format
+        match = re.search(r"(\d+)(?:th|nd|rd|st) Grade", text)
+        if match:
+            return match.group(1)
+    return "Unknown"  # Default if not found
+
+
 
 def contains_keywords(strands_data, keywords=["Strand", "Sub Strand"]):
     # Convert keywords to lowercase for case-insensitive comparison
@@ -37,7 +54,7 @@ def find_keyword_columns(strands_data, keywords):
 def merge_strand_and_indicator(tables, column_positions):
     
     # Split where "table".first contains "Indicators"
-    # tables = [table for table in tables if table['number_of_columns'] >= 4]
+    tables = [table for table in tables if table['number_of_columns'] >= 4]
     split_index = next((i for i, table in enumerate(tables) if "Indicators" in ' '.join(str(cell) for cell in table['table'][0] if cell is not None)), len(tables))
     tables_before_indicator = tables[:split_index]
     tables_after_indicator = tables[split_index:]
@@ -54,27 +71,28 @@ def merge_strand_and_indicator(tables, column_positions):
     # Initialize DataFrame for strands with the final column names
     df_substrand = pd.DataFrame(columns=strands_mapping.keys())
 
-    # Process each table in tables_before_indicator
-    for table in tables_before_indicator:
-        # Create a dictionary for column mapping
-        column_mapping = {}
-        for col in table['table'][0]:
-            for final_name, original_names in strands_mapping.items():
-                if col in original_names:
-                    column_mapping[col] = final_name
-                    break
+    # Create a dictionary for column mapping
+    column_mapping = {}
+    for col in tables_before_indicator[0]['table'][0]:
+        col_lower = col.lower()  # Convert column name to lowercase
+        for final_name, original_names in strands_mapping.items():
+            # Check if the lowercase column name matches any of the lowercase original names
+            if any(col_lower == original_name.lower() for original_name in original_names):
+                column_mapping[col] = final_name
+                break
 
-        # Only process the table if at least one column was successfully mapped
-        if column_mapping:
-            # Create temporary DataFrame and rename columns
-            temp_df = pd.DataFrame(table['table'][0:], columns=table['table'][0])
-            temp_df.rename(columns=column_mapping, inplace=True)
+    # Only process the table if at least one column was successfully mapped
+    if column_mapping:
+        # Create temporary DataFrame and rename columns
 
-            # Retain only the columns that are in df_substrand
-            temp_df = temp_df[df_substrand.columns.intersection(temp_df.columns)]
+        temp_df = pd.DataFrame(tables_before_indicator['table'][0:], columns=tables_before_indicator[0]['table'][0])  # Assuming the first row is the header
+        temp_df.rename(columns=column_mapping, inplace=True)
 
-            # Append processed DataFrame to df_substrand
-            df_substrand = df_substrand.append(temp_df, ignore_index=True)
+        # Retain only the columns that are in df_substrand
+        temp_df = temp_df[df_substrand.columns.intersection(temp_df.columns)]
+
+        # Append processed DataFrame to df_substrand
+        df_substrand = df_substrand.append(temp_df, ignore_index=True)
 
 
 
@@ -90,21 +108,19 @@ def merge_strand_and_indicator(tables, column_positions):
     # Initialize DataFrame for rubrics
     df_rubrics = pd.DataFrame(columns=rubrics_mapping.keys())
 
-    # Process each table in tables_after_indicator
-    for table in tables_after_indicator:
-        # Create a dictionary for column mapping
-        column_mapping = {}
-        for col in table['table'][0]:
-            for final_name, original_names in rubrics_mapping.items():
-                ## make column name lower case
-                 if col in original_names:
-                    column_mapping[col] = final_name
-                    break
+    column_mapping = {}
+    for col in tables_after_indicator[0]['table'][0]:
+        col_lower = col.lower()  # Convert column name to lowercase
+        for final_name, original_names in rubrics_mapping.items():
+            # Check if the lowercase column name matches any of the lowercase original names
+            if any(col_lower == original_name.lower() for original_name in original_names):
+                column_mapping[col] = final_name
+                break
 
         # Only process the table if at least one column was successfully mapped
         if column_mapping:
             # Create temporary DataFrame and rename columns
-            temp_df = pd.DataFrame(table['table'][0:], columns=table['table'][0])
+            temp_df = pd.DataFrame(table['table'][0:], columns=table['table'][0])  # Assuming the first row is the header
             temp_df.rename(columns=column_mapping, inplace=True)
 
             # Retain only the columns that are in df_rubrics
@@ -171,6 +187,7 @@ def merge_strand_and_indicator(tables, column_positions):
 
 
 def extract_tables_grouped_by_strand(pdf_path):
+    grade = extract_grade(pdf_path)
     with pdfplumber.open(pdf_path) as pdf:
         all_tables = []
         for i in range(0, len(pdf.pages)):
@@ -179,6 +196,7 @@ def extract_tables_grouped_by_strand(pdf_path):
             for table in tables:
                 all_tables.append({
                     "page_number": i + 1,
+                    "grade": grade,
                     "number_of_columns": len(table[0]),
                     "table": table
                 })
@@ -210,8 +228,33 @@ def extract_tables_grouped_by_strand(pdf_path):
         return all_strands
 
 
-def process_file(pdf_path):
+def save_grouped_tables_as_json(pdf_path):
+    # Extract tables grouped by strand from the PDF
     grouped_tables = extract_tables_grouped_by_strand(pdf_path)
+
+    # Create the file name for the JSON file
+    file_name = f'{os.path.splitext(os.path.basename(pdf_path))[0]}_grouped_tables.json'
+
+    # Create the path for the GROUPED_TABLES_JSON directory in the same directory as the PDF file
+    base_folder = os.path.dirname(pdf_path)
+    grouped_tables_dir = os.path.join(base_folder, 'GROUPED_TABLES_JSON')
+    grouped_tables_path = os.path.join(grouped_tables_dir, file_name)
+
+    # Ensure the GROUPED_TABLES_JSON directory exists
+    os.makedirs(grouped_tables_dir, exist_ok=True)
+
+    # Write grouped_tables to JSON file
+    with open(grouped_tables_path, 'w', encoding='utf-8') as f:
+        json.dump(grouped_tables, f, ensure_ascii=False, indent=4)
+
+    return grouped_tables_path
+
+def process_grouped_tables(json_path):
+    # Load the grouped tables from JSON
+    with open(json_path, 'r', encoding='utf-8') as f:
+        grouped_tables = json.load(f)
+
+    # Process each strand
     strands = []
     for strand in grouped_tables:
         strand_key = list(strand.keys())[0]
@@ -221,10 +264,12 @@ def process_file(pdf_path):
             "Exceeds Expectations", "Meets Expectations", "Approaches Expectations",
             "Below Expectations"
         ]
-        if contains_keywords(strand[strand_key]):
+        # Check if the strand contains any of the keywords
+        if contains_keywords(strand[strand_key], keywords):
             column_positions = find_keyword_columns(strand[strand_key], keywords)
             strand_data = merge_strand_and_indicator(strand[strand_key], column_positions)
             strands.append({strand_key: strand_data})
+    
     return strands
 
 def main(directory_path):
@@ -232,19 +277,19 @@ def main(directory_path):
         if file_name.lower().endswith('.pdf'):
             pdf_path = os.path.join(directory_path, file_name)
             print(f"Processing {pdf_path}...")
-            complete_data = process_file(pdf_path)
+
+            # Stage 1: Save the grouped tables as JSON
+            grouped_json_path = save_grouped_tables_as_json(pdf_path)
+            print(f"Downloaded {grouped_json_path}...")
+
+            # # Stage 2: Process the grouped tables and save the result
+            # complete_data = process_grouped_tables(grouped_json_path)
+            # processed_pdf_path = os.path.join(directory_path, f'{os.path.splitext(file_name)[0]}_processed.json')
+            # with open(processed_pdf_path, 'w', encoding='utf-8') as f:
+            #     json.dump(complete_data, f, ensure_ascii=False, indent=4)
             
-            # Define the path for the processed JSON file
-            processed_pdf_path = os.path.join(directory_path, f'{os.path.splitext(file_name)[0]}_processed.json')
-            with open(processed_pdf_path, 'w', encoding='utf-8') as f:
-                json.dump(complete_data, f, ensure_ascii=False, indent=4)
-            
-            print(f"Processed data written to {processed_pdf_path}")
+            # print(f"Processed data written to {processed_pdf_path}")
 
 if __name__ == '__main__':
-    # parser = argparse.ArgumentParser(description="Process curriculum PDF files into JSON format.")
-    # parser.add_argument('directory', help="The directory containing the PDF files")
-    # args = parser.parse_args()
-    # main(args.directory)
-    directoty_path = "/home/dataiku/kn_workspace/currilculum_taxonomy_extractor/data/math_downloads/ALL_MATH/PDF"
-    main(directoty_path)
+    directory_path = "/home/dataiku/kn_workspace/currilculum_taxonomy_extractor/data/ALL"
+    main(directory_path)
