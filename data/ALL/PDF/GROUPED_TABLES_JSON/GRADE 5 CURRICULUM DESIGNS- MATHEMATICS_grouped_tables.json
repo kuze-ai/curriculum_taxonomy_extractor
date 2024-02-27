@@ -1,4 +1,4 @@
-[
+
     {
         "strand_2": [
             {
@@ -207,7 +207,7 @@
                         "column_number_4": "Adds up to two 6-\ndigit numbers with\ndouble regrouping\nup to a sum of\n1,000,000 correctly",
                         "column_number_5": "Inconsistently adds\nup to two 6- digit\nnumbers with\ndouble regrouping\nup to a sum of\n1,000,000",
                         "column_number_6": "Little evidence in\nadding up to two 6-\ndigit numbers with\ndouble regrouping\nup to a sum of\n1,000,000"
-                    }
+                    },
                     {
                         "column_number_1": "3.",
                         "column_number_2": "Estimate sum by rounding\nthe addends to the nearest\nhundred and thousand",
@@ -315,7 +315,7 @@
                         "column_number_4": "Subtracts up to 6-\ndigit numbers\nwithout regrouping\ncorrectly",
                         "column_number_5": "Inconsistently\nsubtracts up to 6-\ndigit numbers\nwithout regrouping",
                         "column_number_6": "Little evidence in\nsubtracting up to 6-\ndigit numbers\nwithout regrouping"
-                    }
+                    },
                     {
                         "column_number_1": "2.",
                         "column_number_2": "S ubtract of up to 6-\ndigit numbers with\nregrouping",
@@ -449,7 +449,7 @@
                         "column_number_3": "Uses IT devices for\nlearning more on\nmultiplication efficiently\nand with ease",
                         "column_number_4": "Uses IT devices for\nlearning more on\nmultiplication\nefficiently",
                         "column_number_5": "Inconsistently uses IT\ndevices for learning more\non multiplication",
-                        "column_number_6": "Little evidence in using\nIT devices for learning\nmore on multiplication",
+                        "column_number_6": "Little evidence in using\nIT devices for learning\nmore on multiplication"
                     }
                 ]
             }
@@ -1547,28 +1547,6 @@
                         "column_number_6": "Little evidence in\nusing IT devices for\nlearning more on\nmass"
                     }
                 ]
-            },
-            {
-                "page_number": 42,
-                "number_of_columns": 6,
-                "table": [
-                    {
-                        "column_number_1": "",
-                        "column_number_2": "",
-                        "column_number_3": "",
-                        "column_number_4": "",
-                        "column_number_5": "",
-                        "column_number_6": ""
-                    },
-                    
-                ]
-            },
-            {
-                "page_number": 43,
-                "number_of_columns": 6,
-                "table": [
-                    
-                ]
             }
         ]
     },
@@ -1807,7 +1785,7 @@
                         "column_number_1": "No.",
                         "column_number_2": "Indicators",
                         "column_number_3": "Exceeds\nExpectations",
-                        "column_number_4": "Meets Expectations",
+                        "column_number_4": "Me©ets Expectations",
                         "column_number_5": "Approaches\nExpectations",
                         "column_number_6": "Below Expectations"
                     },
@@ -2515,21 +2493,7 @@
                         "column_number_3": "a) Written exercises\nb) Oral questions\nc) Observation\nd) Group discussion",
                         "column_number_4": " Place Value Charts\n Number Cards",
                         "column_number_5": "1. Learners to represent\ndecimals using paper cut\nouts during play.\n2. Learners to represent\ndecimals on place value\ncharts during play."
-                    },
-                ]
-            },
-            {
-                "page_number": 64,
-                "number_of_columns": 5,
-                "table": [
-                    {
-                        "column_number_1": "",
-                        "column_number_2": "",
-                        "column_number_3": "",
-                        "column_number_4": "",
-                        "column_number_5": ""
-                    },
-                    
+                    }
                 ]
             },
             {
@@ -2595,20 +2559,6 @@
                 ]
             },
             {
-                "page_number": 66,
-                "number_of_columns": 5,
-                "table": [
-                    {
-                        "column_number_1": "",
-                        "column_number_2": "",
-                        "column_number_3": "",
-                        "column_number_4": "",
-                        "column_number_5": ""
-                    },
-                    
-                ]
-            },
-            {
                 "page_number": 67,
                 "number_of_columns": 5,
                 "table": [
@@ -2658,4 +2608,3 @@
             }
         ]
     }
-]

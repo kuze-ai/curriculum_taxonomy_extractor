@@ -8,7 +8,7 @@ Aspects to factor:
 ```json
  {
         "page_number": 13,
-"grade" :6,
+        "grade" :6,
         "strand": "1.0\nNUMBERS",
         "sub_strand": "1.1 Whole\nnumbers\n(20 Lessons)",
         "rubric_start_page": 15,

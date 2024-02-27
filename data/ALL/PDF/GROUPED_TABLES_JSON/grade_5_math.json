@@ -1,0 +1,83 @@
+[
+  {
+    "Strand": "1.0  \nNUMBERS",
+    "Sub strand": "1.0  Whole \nNumbers \n         \n(20 Lessons)",
+    "Specific Learning Outcomes": "By the end of the sub strand, the \nlearner should be able to; \na) \nuse place value and total value \nof digits up to hundreds of \nthousands in real life, \nb) \n use  numbers up to hundreds \nof thousands in symbols in real \nlife, \nc) \nread, write and relate numbers \nup to tens of thousands in \nwords in real life, \nd) \norder numbers up to tens of \nthousands in real life, \ne) \nround off numbers up to tens \nof thousands to the nearest \nhundred and thousand  in \ndifferent situations, \nf) \napply divisibility tests of 2, 5 \nand 10 in real life,  \ng) \napply highest Common Factor \n(HCF) and Greatest Common \nDivisor (GCD) in different \nsituations, \nh) \nuse Least Common Multiple \n(LCM) in real life situations,\ni) \nuse IT devices for learning \nmore on whole numbers and \nleisure, \nj) \nappreciate use of whole \nnumbers in real life situations.",
+    "Suggested Learning Experiences": " In  pairs,groups or as individuals  identify place \nvalue of digits up to hundreds of thousands using \nplace value apparatus. \n In  pairs,groups or as individuals  identify total \nvalue of digits up to hundreds of thousands using \nplace value apparatus. \n In  pairs,groups or as individuals  read numbers \nup to hundreds of thousands in symbols from \nnumber charts or  cards. \n  In  pairs, groups or as individuals  read and write \nnumbers up to tens of thousands in words from \nnumber charts or  cards. \n In  pairs, groups or as individuals  arrange \nnumbers up to tens of thousands in increasing \nand decreasing order using number cards and \nshare with other groups. \n  In  pairs, groups or as individuals  round off \nnumbers up to tens of thousands to the nearest \nhundred and thousand  using number cards and \nshare with other groups. \n In  pairs, groups or as individuals  divide \ndifferent numbers by 2, 5 and 10 and come up \nwith divisibility rules.\n In  pairs, groups or as individuals  identify factors \nand divisors of given numbers. \n In  pairs, groups or as individuals  identify the \ncommon factors and divisors. \n  In   pairs, groups or as individuals  determine the \nhighest or greatest common factor or divisor.  \n In  pairs, groups or as individuals identify \nmultiples of given numbers. \n In  pairs, groups or as individuals  identify the \ncommon multiples. \n In  pairs, groups or as individuals  determine the \nleast common multiple.  \n In  pairs or as individuals  play digit games on  \ninvolving numbers.",
+    "Key Inquiry \nQuestion(s)": "1.  Where is \nordering of \nnumbers \nused in real \nlife? \n2.  How do you \nfind out \nwhether a \nnumber can \nbe divided \nby another?",
+    "rubrics": [
+      {
+        "No.": "1",
+        "Indicators": "Use  place value \nand total value of \ndigits up to \nhundreds of \nthousands",
+        "Exceeds Expectations": "Uses place value and total value \nof digits up to more than \nhundreds of thousands correctly",
+        "Meets Expectations": "Uses place value and \ntotal value of digits up \nto hundreds of \nthousands correctly",
+        "Approaches  \nExpectations": "Inconsistently uses \nplace value and total \nvalue of digits up to \nhundreds of \nthousands",
+        "Below Expectations": "Little evidence in \nusing  place value and \ntotal value of digits up \nto hundreds of \nthousands"
+      },
+      {
+        "No.": "2",
+        "Indicators": "Use  numbers  up to \nhundreds of \nthousands in \nsymbols",
+        "Exceeds Expectations": "Uses  numbers greater than  \nhundreds of thousands in \nsymbols correctly",
+        "Meets Expectations": "Uses  numbers up to \nhundreds of thousands \nin symbols correctly",
+        "Approaches  \nExpectations": "Inconsistently  uses \nnumbers up to \nhundreds of \nthousands in \nsymbols",
+        "Below Expectations": "Little evidence in  \nusing numbers up to \nhundreds of thousands \nin symbols"
+      },
+      {
+        "No.": "3",
+        "Indicators": "Read, write and \nrelate numbers up to \ntens of thousands in \nwords",
+        "Exceeds Expectations": "Reads, writes and relates  \nnumbers  greater than tens of \nthousands in words correctly",
+        "Meets Expectations": "Reads, writes and \nrelates  numbers up to  \ntens of thousands in \nwords correctly",
+        "Approaches  \nExpectations": "Inconsistently reads, \nwrites and relates  \nnumbers  up to tens \nof thousands in \nwords",
+        "Below Expectations": "Little evidence in \nreading, writing and \nrelating  numbers  up \nto tens of thousands in \nwords\""
+      },
+      {
+        "No.": "4",
+        "Indicators": "Order numbers up \nto tens of thousands",
+        "Exceeds Expectations": "Orders numbers greater than tens \nof thousands correctly",
+        "Meets Expectations": "Orders numbers up to \ntens of thousands \ncorrectly",
+        "Approaches  \nExpectations": "Inconsistently orders \nnumbers up to tens \nof thousands",
+        "Below Expectations": "Little evidence in \nordering numbers up \nto tens of thousands"
+      },
+      {
+        "No.": "5",
+        "Indicators": "Round off numbers \nup  to tens of \nthousands to the nearest hundred and \nthousand",
+        "Exceeds Expectations": "Rounds off numbers greater than \ntens of thousands to the nearest \nhundred and thousand correctly",
+        "Meets Expectations": "Rounds off numbers up \ntens of thousands to the nearest hundred and \nthousand  correctly",
+        "Approaches  \nExpectations": "Inconsistently \nrounds off numbers \nup to  tens of thousands to the \nnearest hundred and \nthousand",
+        "Below Expectations": "Little evidence in \nrounding off numbers \nup to tens of thousands to \nthe nearest hundred \nand thousand"
+      },
+      {
+        "No.": "6",
+        "Indicators": "Apply divisibility \ntests of 2, 5 and 10",
+        "Exceeds Expectations": "Applies divisibility tests of 2, 5, \n10 and others  correctly",
+        "Meets Expectations": "Applies divisibility \ntests of 2, 5 and 10  \ncorrectly",
+        "Approaches  \nExpectations": "Inconsistently \napplies divisibility \ntests of 2, 5 and 10",
+        "Below Expectations": "Little evidence in \napplying divisibility \ntests of 2, 5 and 10\""
+      },
+      {
+        "No.": "7",
+        "Indicators": "Apply highest \nCommon Factor \n(HCF)/Greatest \nCommon Divisor \n(GCD)",
+        "Exceeds Expectations": "Applies highest Common Factor \n(HCF)/Greatest Common \nDivisor (GCD) correctly and \nwith ease",
+        "Meets Expectations": "Applies highest \nCommon Factor \n(HCF)/Greatest \nCommon Divisor \n(GCD) correctly",
+        "Approaches  \nExpectations": "Inconsistently \napplies highest \nCommon Factor \n(HCF)/Greatest \nCommon Divisor \n(GCD)",
+        "Below Expectations": "Little evidence in \napplying highest \nCommon Factor \n(HCF)/Greatest \nCommon Divisor \n(GCD)"
+      },
+      {
+        "No.": "8",
+        "Indicators": "Use Least Common \nMultiple (LCM)",
+        "Exceeds Expectations": "Uses Least Common Multiple \n(LCM) correctly and with ease",
+        "Meets Expectations": "Uses Least Common \nMultiple (LCM) \ncorrectly",
+        "Approaches  \nExpectations": "Inconsistently uses \nLeast Common \nMultiple (LCM)",
+        "Below Expectations": "Little evidence in  \nusing  Least Common \nMultiple (LCM)"
+      },
+      {
+        "No.": "9",
+        "Indicators": "Use IT devices for \nlearning more on \nwhole numbers",
+        "Exceeds Expectations": "Uses IT devices for learning \nmore on whole numbers \nefficiently and with ease",
+        "Meets Expectations": "Uses IT devices for \nlearning more on whole \nnumbers efficiently",
+        "Approaches  \nExpectations": "Inconsistently uses \nIT devices for \nlearning more on \nwhole numbers",
+        "Below Expectations": "Little evidence in \nusing IT devices for \nlearning more on \nwhole numbers"
+      }
+    ]
+  }
+]

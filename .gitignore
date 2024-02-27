@@ -93,3 +93,10 @@ target/
 
 # Mypy cache
 .mypy_cache/
+data/ALL/PDF_CSV/*
+data/ALL/PDF_CAM_PARSE_REPORT/*
+data/ALL/PDF_CAM/*
+
+data/ALL/ALL_MATH/*
+data/ALL/ALL_MATH_CSV/*
+node_modules/*
