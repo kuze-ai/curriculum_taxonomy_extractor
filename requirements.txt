@@ -38,3 +38,6 @@ pdfplumber
 linktransformer
 chardet
 ipywidgets
+llama-index-program-openai
+llama-index-llms-openai
+vllm

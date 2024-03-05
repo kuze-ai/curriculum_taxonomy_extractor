@@ -1,0 +1,11 @@
+# local package
+-e .
+
+python-dotenv>=0.5.1
+pandas
+ipython
+ipykernel
+ipywidgets
+llama-index-program-openai
+llama-index-llms-openai
+vllm

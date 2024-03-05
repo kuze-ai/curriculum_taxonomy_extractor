@@ -101,4 +101,4 @@ data/ALL/PDF_CAM/*
 data/ALL/ALL_MATH/*
 data/ALL/ALL_MATH_CSV/*
 node_modules/*
-
+.venv_llama_index/*
