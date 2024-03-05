@@ -81,7 +81,8 @@ target/
 /data/external/
 /data/interim/
 /data/math_downloads/
-/data/processed/
+# /data/processed/
+# data/processed/
 /data/raw/
 
 # Mac OS-specific storage files
@@ -100,3 +101,4 @@ data/ALL/PDF_CAM/*
 data/ALL/ALL_MATH/*
 data/ALL/ALL_MATH_CSV/*
 node_modules/*
+
